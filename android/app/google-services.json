@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1024124374094",
+    "project_id": "test-d1d2f",
+    "storage_bucket": "test-d1d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024124374094:android:35c61a06afa2e3f3d2c71f",
+        "android_client_info": {
+          "package_name": "com.example.clevertap_plugin_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF9ig09pViYFxT-4WIKsfZoRZGl1WErWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024124374094:android:b88d6a1f762364bdd2c71f",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF9ig09pViYFxT-4WIKsfZoRZGl1WErWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
